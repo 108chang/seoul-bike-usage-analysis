@@ -1,0 +1,17 @@
+# Raw and generated data are intentionally excluded.
+data/*
+!data/README.md
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+# Major libraries observed in the supplied notebook; original versions unknown.
+# Use Google Colab for google.colab.drive and the Linux font setup cells.
+pandas
+numpy
+matplotlib
+seaborn
