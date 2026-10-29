@@ -1,5 +1,9 @@
 # 서울시 따릉이 이용 패턴 분석
 
+[분석 결과 대시보드 열기](https://108chang.github.io/seoul-bike-usage-analysis/dashboard.html) · [HTML 파일 다운로드](dashboard.html)
+
+대시보드에서 집계 지표를 비교하고 차트의 원본 집계표를 확인할 수 있습니다. HTML 파일은 다운로드한 뒤 브라우저에서도 열 수 있습니다.
+
 **2025년 대여이력 데이터를 활용한 2030세대의 시간·요일·이동거리별 이용 행태 분석**
 
 초급 데이터 분석 프로젝트 · 6인 팀 프로젝트 · 따릉이 타려다 따흐흑
@@ -190,5 +194,6 @@ seoul-bike-usage-analysis/
 
 - [채용 플랫폼 북마크 — 행동 로그와 사용자 세그먼트](https://github.com/108chang/job-platform-bookmark-analysis)
 - [공유오피스 무료체험 — 행동 군집화와 모델 비교](https://github.com/108chang/shared-office-trial-clustering)
+
 
 
